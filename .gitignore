@@ -1,0 +1,11 @@
+target/
+node_modules/
+.tools/
+src/main/frontend/generated/
+src/main/bundles/
+vite.generated.ts
+types.d.ts
+tsconfig.json
+package-lock.json
+.idea/
+*.iml
